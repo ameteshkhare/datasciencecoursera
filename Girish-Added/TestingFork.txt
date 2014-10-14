@@ -1,0 +1,11 @@
+## Step 1: Girish created this file to test the fork feature of git 
+
+## Step 2: I am going to push my changes to this forked repo.
+
+## Step 3: My changes get accepted in the original repo.
+
+## Step 4: Original Repo is modified with more files or content.
+
+## Step 5: I will setup sync-fork and bring in the additional changes made in Step#4
+
+
